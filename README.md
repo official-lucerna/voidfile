@@ -8,7 +8,7 @@ Unfortunately, because we do not have a server to properly host VoidFile, the Vo
 # ⚙️ Installations
 ## Github
 ```
-git clone https://github.com/firstdecree/voidfile
+git clone https://github.com/official-lucerna/voidfile
 ```
 
 ## NpmJS
